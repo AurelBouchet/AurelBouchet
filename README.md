@@ -4,6 +4,6 @@ Currently improving my skills in technologies such as Angular, RxJS, NgRx... I'm
   📌 LinkedIn @https://www.linkedin.com/in/aurélien-bouchet
 - 📫 aurelien-bouchet@hotmail.fr
 
-And you can check my portfolio just right there : https://aurelien-bouchet-cv.netlify.app/ 
+And you can have a look on my portfolio just right there : https://aurelien-bouchet-cv.netlify.app/ 
 
 Cheers! 🔥🔥🔥
