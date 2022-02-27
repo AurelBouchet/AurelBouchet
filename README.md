@@ -5,8 +5,8 @@ Angular cruisader ! 😁 <br>
 
  https://www.linkedin.com/in/aurélien-bouchet
  
- aurelien-bouchet@hotmail.fr
- 
  https://aurelien-bouchet-cv.netlify.app/ 
+ 
+ aurelien-bouchet@hotmail.fr
 
 Cheers! 🔥🔥🔥
