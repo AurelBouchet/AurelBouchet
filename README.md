@@ -1,5 +1,5 @@
 
-Angular cruisader ! 😁 <br>
+
 
 📌 Nantes
 
